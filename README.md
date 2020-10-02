@@ -40,3 +40,5 @@ BCBCBCDDBCDD
 $ base4 decode --charset ABCD "BCBCBCDDBCDD"
 foo
 ```
+
+Yeah
